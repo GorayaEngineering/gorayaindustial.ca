@@ -1,2 +1,2 @@
 # gorayaindustial.ca
-Website for engineering services indus
+Website for engineering services
